@@ -45,6 +45,6 @@ Saya pemula yang sedang belajar menjadi web developer. Saat ini saya fokus mempe
 
 ## ☕ Kontak & Sosial
 
-- 📫 Email: hanets@email.com
+- 📫 Email: han3ts@email.com
 - 🌐 Blog/Portofolio: [Belum ada - coming soon!]
 
