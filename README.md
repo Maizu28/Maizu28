@@ -1,6 +1,3 @@
-<img src="https://your-image-url/banner.png" alt="banner" />
-
-
 # Halo! 👋 Saya hanets
 Saya seorang pemula yang fokus di Python, JavaScript, dan pengembangan aplikasi real-time.
 
@@ -16,3 +13,5 @@ Saya seorang pemula yang fokus di Python, JavaScript, dan pengembangan aplikasi 
 ## 📊 GitHub Stats
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hanets&show_icons=true&theme=radical)
 
+## 🐍 Snake GitHub Contribution
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
