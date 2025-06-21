@@ -1,4 +1,4 @@
-# 👋 Hai, saya Han Ets!
+# 👋 Hai, saya Hanets!
 
 Saya pemula yang sedang belajar menjadi web developer. Saat ini saya fokus mempelajari:
 
