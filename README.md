@@ -1,8 +1,6 @@
 # Halo! 👋 Saya hanets
 Saya seorang pemula yang fokus di Python, JavaScript, dan pengembangan aplikasi real-time.
 
-- 🌱 Saat ini belajar: Docker, TypeScript
-- 🧠 Fun fact: Saya ngoding pakai AI
 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
