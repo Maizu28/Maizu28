@@ -31,7 +31,6 @@ Saya pemula yang sedang belajar menjadi web developer. Saat ini saya fokus mempe
 ## 📌 Proyek Saya
 
 - [🛒 Toko joki](https://github.com/Maizu28/hanetstore)
-- [🤖 Bot discord](https://discord.gg/TsCtcxX5)
 
 > Semua proyek saya adalah bagian dari proses belajar!
 
