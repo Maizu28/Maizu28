@@ -13,7 +13,7 @@ Saya pemula yang sedang belajar menjadi web developer. Saat ini saya fokus mempe
 
 - 🎓 Saya suka belajar lewat proyek nyata
 - 📘 Sedang membangun beberapa proyek untuk portofolio
-- 🔍 Tertarik dengan Web Development, API, dan UI/UX Design
+- 🔍 Tertarik dengan Web Development, dan UI/UX Design
 - 🧠 Motto saya: Belajar sambil praktik!
 
 ---
